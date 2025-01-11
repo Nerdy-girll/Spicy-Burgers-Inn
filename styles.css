@@ -6,3 +6,12 @@
     height: 100vh;
     background-image: linear-gradient(to top left, orange 50%, white 50%);
 }
+.myfirsticoncolors{
+    color: orange;
+    font-size: 40px;
+
+}
+.mytextarea{
+    height: 10vh;
+    width: 20vw;
+}
